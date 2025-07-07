@@ -27,7 +27,7 @@ DEBUG = True
 
 
 # Permitir hosts locales y Codespace (ajusta según tu entorno)
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'ominous-bassoon-wrx6qr54px79hw9g-8000.app.github.dev']
 
 
 # Application definition
